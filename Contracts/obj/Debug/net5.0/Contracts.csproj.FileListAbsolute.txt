@@ -1,0 +1,15 @@
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\ahmet\Desktop\WebAPI\ForumCase\ForumCase\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete

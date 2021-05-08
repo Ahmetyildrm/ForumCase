@@ -1,0 +1,14 @@
+2021-05-09 01:47:18.6393 INFO User with username: admin1 doesn't exist in the database.
+2021-05-09 02:03:53.8417 INFO Password doesn't match with Admin admin
+2021-05-09 02:05:20.4509 INFO You can only change status to Rejected or Approved
+2021-05-09 02:05:37.0201 INFO You can only change status to Rejected or Approved
+2021-05-09 02:05:57.4991 INFO You can only change status to Rejected or Approved
+2021-05-09 02:06:34.4048 INFO Review with id: 80abbca8-664d-4b20-b5de-024705497d4a is already approved
+2021-05-09 02:08:48.6588 INFO You can only change status to Rejected or Approved
+2021-05-09 02:08:52.8257 INFO You can only change status to Rejected or Approved
+2021-05-09 02:08:56.6601 INFO You can only change status to Rejected or Approved
+2021-05-09 02:09:27.3101 INFO You can only change status to Rejected or Approved
+2021-05-09 02:10:00.7556 INFO You can only change status to Rejected or Approved
+2021-05-09 02:16:23.3115 INFO Star must be between 0-5
+2021-05-09 02:16:27.6819 INFO Star must be numeric
+2021-05-09 02:16:53.7949 INFO Review with id: e2b34aa0-f0c7-4af6-858d-08d9125ab2ec is already approved
